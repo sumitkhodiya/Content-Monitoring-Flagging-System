@@ -1,0 +1,31 @@
+# Ignore pycache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore virtual environment
+venv/
+env/
+ENV/
+
+# Ignore IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Ignore database
+db.sqlite3
+*.db
+
+# Ignore environment variables
+.env
+.env.local
+
+# Ignore logs
+*.log
+
+# Ignore static files
+/staticfiles/
